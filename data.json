@@ -1,0 +1,150 @@
+[
+    {
+        "id": "uSC8WvYW",
+        "name": "Sathi",
+        "type": "song",
+        "year": "2021",
+        "releaseDate": null,
+        "duration": 217,
+        "label": "Ritviz & Nucleya",
+        "explicitContent": false,
+        "playCount": 437141,
+        "language": "hindi",
+        "hasLyrics": true,
+        "lyricsId": null,
+        "url": "https://www.jiosaavn.com/song/sathi/BTsoCSNGbmQ",
+        "copyright": "© 2021 Ritviz & Nucleya",
+        "album": {
+            "id": "30082117",
+            "name": "Baaraat",
+            "url": "https://www.jiosaavn.com/album/baaraat/yJ1dpCSnXIk_"
+        },
+        "artists": {
+            "primary": [
+                {
+                    "id": "1970745",
+                    "name": "Ritviz",
+                    "role": "primary_artists",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Ritviz_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Ritviz_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Ritviz_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/ritviz-songs/Qsu9dVIU1i8_"
+                },
+                {
+                    "id": "510237",
+                    "name": "Nucleya",
+                    "role": "primary_artists",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Nucleya_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Nucleya_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Nucleya_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/nucleya-songs/nZkjTeNYKxY_"
+                }
+            ],
+            "featured": [],
+            "all": [
+                {
+                    "id": "1970745",
+                    "name": "Ritviz",
+                    "role": "singer",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Ritviz_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Ritviz_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Ritviz_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/ritviz-songs/Qsu9dVIU1i8_"
+                },
+                {
+                    "id": "510237",
+                    "name": "Nucleya",
+                    "role": "singer",
+                    "image": [
+                        {
+                            "quality": "50x50",
+                            "url": "https://c.saavncdn.com/artists/Nucleya_50x50.jpg"
+                        },
+                        {
+                            "quality": "150x150",
+                            "url": "https://c.saavncdn.com/artists/Nucleya_150x150.jpg"
+                        },
+                        {
+                            "quality": "500x500",
+                            "url": "https://c.saavncdn.com/artists/Nucleya_500x500.jpg"
+                        }
+                    ],
+                    "type": "artist",
+                    "url": "https://www.jiosaavn.com/artist/nucleya-songs/nZkjTeNYKxY_"
+                }
+            ]
+        },
+        "image": [
+            {
+                "quality": "50x50",
+                "url": "https://c.saavncdn.com/298/Baaraat-Hindi-2021-20211005031328-50x50.jpg"
+            },
+            {
+                "quality": "150x150",
+                "url": "https://c.saavncdn.com/298/Baaraat-Hindi-2021-20211005031328-150x150.jpg"
+            },
+            {
+                "quality": "500x500",
+                "url": "https://c.saavncdn.com/298/Baaraat-Hindi-2021-20211005031328-500x500.jpg"
+            }
+        ],
+        "downloadUrl": [
+            {
+                "quality": "12kbps",
+                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_12.mp4"
+            },
+            {
+                "quality": "48kbps",
+                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_48.mp4"
+            },
+            {
+                "quality": "96kbps",
+                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_96.mp4"
+            },
+            {
+                "quality": "160kbps",
+                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_160.mp4"
+            },
+            {
+                "quality": "320kbps",
+                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_320.mp4"
+            }
+        ]
+    }
+]
