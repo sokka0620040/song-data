@@ -1,150 +1,487 @@
 [
     {
-        "id": "uSC8WvYW",
-        "name": "Sathi",
-        "type": "song",
-        "year": "2021",
-        "releaseDate": null,
-        "duration": 217,
-        "label": "Ritviz & Nucleya",
-        "explicitContent": false,
-        "playCount": 437141,
-        "language": "hindi",
-        "hasLyrics": true,
-        "lyricsId": null,
-        "url": "https://www.jiosaavn.com/song/sathi/BTsoCSNGbmQ",
-        "copyright": "© 2021 Ritviz & Nucleya",
-        "album": {
-            "id": "30082117",
-            "name": "Baaraat",
-            "url": "https://www.jiosaavn.com/album/baaraat/yJ1dpCSnXIk_"
-        },
-        "artists": {
-            "primary": [
-                {
-                    "id": "1970745",
-                    "name": "Ritviz",
-                    "role": "primary_artists",
-                    "image": [
-                        {
-                            "quality": "50x50",
-                            "url": "https://c.saavncdn.com/artists/Ritviz_50x50.jpg"
-                        },
-                        {
-                            "quality": "150x150",
-                            "url": "https://c.saavncdn.com/artists/Ritviz_150x150.jpg"
-                        },
-                        {
-                            "quality": "500x500",
-                            "url": "https://c.saavncdn.com/artists/Ritviz_500x500.jpg"
-                        }
-                    ],
-                    "type": "artist",
-                    "url": "https://www.jiosaavn.com/artist/ritviz-songs/Qsu9dVIU1i8_"
+                "id": "X0zxHHfs",
+                "name": "Husn",
+                "type": "song",
+                "year": "2023",
+                "releaseDate": null,
+                "duration": 217,
+                "label": "Universal Music India Pvt. Ltd. (on behalf of Anuv Jain)",
+                "explicitContent": false,
+                "playCount": 15888381,
+                "language": "hindi",
+                "hasLyrics": true,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/husn/KFgRSTx4UUA",
+                "copyright": "℗ 2023 Anuv Jain",
+                "album": {
+                    "id": "50076157",
+                    "name": "Husn",
+                    "url": "https://www.jiosaavn.com/album/husn/BPrmo21C3cA_"
                 },
-                {
-                    "id": "510237",
-                    "name": "Nucleya",
-                    "role": "primary_artists",
-                    "image": [
+                "artists": {
+                    "primary": [
                         {
-                            "quality": "50x50",
-                            "url": "https://c.saavncdn.com/artists/Nucleya_50x50.jpg"
-                        },
-                        {
-                            "quality": "150x150",
-                            "url": "https://c.saavncdn.com/artists/Nucleya_150x150.jpg"
-                        },
-                        {
-                            "quality": "500x500",
-                            "url": "https://c.saavncdn.com/artists/Nucleya_500x500.jpg"
+                            "id": "4878402",
+                            "name": "Anuv Jain",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/anuv-jain-songs/0K3gBYoafew_"
                         }
                     ],
-                    "type": "artist",
-                    "url": "https://www.jiosaavn.com/artist/nucleya-songs/nZkjTeNYKxY_"
-                }
-            ],
-            "featured": [],
-            "all": [
-                {
-                    "id": "1970745",
-                    "name": "Ritviz",
-                    "role": "singer",
-                    "image": [
+                    "featured": [],
+                    "all": [
                         {
-                            "quality": "50x50",
-                            "url": "https://c.saavncdn.com/artists/Ritviz_50x50.jpg"
+                            "id": "4878402",
+                            "name": "Anuv Jain",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/anuv-jain-songs/0K3gBYoafew_"
                         },
                         {
-                            "quality": "150x150",
-                            "url": "https://c.saavncdn.com/artists/Ritviz_150x150.jpg"
+                            "id": "4878402",
+                            "name": "Anuv Jain",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/anuv-jain-songs/0K3gBYoafew_"
                         },
                         {
-                            "quality": "500x500",
-                            "url": "https://c.saavncdn.com/artists/Ritviz_500x500.jpg"
+                            "id": "4878402",
+                            "name": "Anuv Jain",
+                            "role": "lyricist",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Anuv_Jain_001_20231206073013_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/anuv-jain-songs/0K3gBYoafew_"
                         }
-                    ],
-                    "type": "artist",
-                    "url": "https://www.jiosaavn.com/artist/ritviz-songs/Qsu9dVIU1i8_"
+                    ]
                 },
-                {
-                    "id": "510237",
-                    "name": "Nucleya",
-                    "role": "singer",
-                    "image": [
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/436/Husn-Hindi-2023-20231129054140-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/436/Husn-Hindi-2023-20231129054140-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/436/Husn-Hindi-2023-20231129054140-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/436/13795b7aa2e87393366162b9e6a6fe88_320.mp4"
+                    }
+                ]
+            },
+    {
+                "id": "7yi1WSmH",
+                "name": "Soulmate",
+                "type": "song",
+                "year": "2024",
+                "releaseDate": null,
+                "duration": 214,
+                "label": "Universal Music India Pvt Ltd.",
+                "explicitContent": true,
+                "playCount": 7206843,
+                "language": "hindi",
+                "hasLyrics": true,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/soulmate/RxECACNjWns",
+                "copyright": "℗ 2024 Universal Music India Pvt. Ltd.",
+                "album": {
+                    "id": "52647503",
+                    "name": "Ek Tha Raja",
+                    "url": "https://www.jiosaavn.com/album/ek-tha-raja/LJhzspfnWto_"
+                },
+                "artists": {
+                    "primary": [
                         {
-                            "quality": "50x50",
-                            "url": "https://c.saavncdn.com/artists/Nucleya_50x50.jpg"
+                            "id": "456863",
+                            "name": "Badshah",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/badshah-songs/d4OwAaEcnD0_"
                         },
                         {
-                            "quality": "150x150",
-                            "url": "https://c.saavncdn.com/artists/Nucleya_150x150.jpg"
-                        },
-                        {
-                            "quality": "500x500",
-                            "url": "https://c.saavncdn.com/artists/Nucleya_500x500.jpg"
+                            "id": "459320",
+                            "name": "Arijit Singh",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/arijit-singh-songs/LlRWpHzy3Hk_"
                         }
                     ],
-                    "type": "artist",
-                    "url": "https://www.jiosaavn.com/artist/nucleya-songs/nZkjTeNYKxY_"
-                }
-            ]
-        },
-        "image": [
-            {
-                "quality": "50x50",
-                "url": "https://c.saavncdn.com/298/Baaraat-Hindi-2021-20211005031328-50x50.jpg"
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "456863",
+                            "name": "Badshah",
+                            "role": "music",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/badshah-songs/d4OwAaEcnD0_"
+                        },
+                        {
+                            "id": "456863",
+                            "name": "Badshah",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/badshah-songs/d4OwAaEcnD0_"
+                        },
+                        {
+                            "id": "459320",
+                            "name": "Arijit Singh",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Arijit_Singh_002_20230323062147_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/arijit-singh-songs/LlRWpHzy3Hk_"
+                        },
+                        {
+                            "id": "456863",
+                            "name": "Badshah",
+                            "role": "lyricist",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/Badshah_005_20230608084021_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/badshah-songs/d4OwAaEcnD0_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/406/Ek-Tha-Raja-Hindi-2024-20240318125601-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/406/af57a9b63876b01fd3fa611bcd221706_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/406/af57a9b63876b01fd3fa611bcd221706_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/406/af57a9b63876b01fd3fa611bcd221706_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/406/af57a9b63876b01fd3fa611bcd221706_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/406/af57a9b63876b01fd3fa611bcd221706_320.mp4"
+                    }
+                ]
             },
-            {
-                "quality": "150x150",
-                "url": "https://c.saavncdn.com/298/Baaraat-Hindi-2021-20211005031328-150x150.jpg"
-            },
-            {
-                "quality": "500x500",
-                "url": "https://c.saavncdn.com/298/Baaraat-Hindi-2021-20211005031328-500x500.jpg"
+    {
+                "id": "inYsaOZR",
+                "name": "Tu hai kahan",
+                "type": "song",
+                "year": "2023",
+                "releaseDate": null,
+                "duration": 263,
+                "label": "Sony Music Entertainment",
+                "explicitContent": false,
+                "playCount": 28182293,
+                "language": "hindi",
+                "hasLyrics": true,
+                "lyricsId": null,
+                "url": "https://www.jiosaavn.com/song/tu-hai-kahan/GQYyQhV-bWE",
+                "copyright": "(P) 2023 Sony Music Entertainment Middle East",
+                "album": {
+                    "id": "49021683",
+                    "name": "Tu hai kahan",
+                    "url": "https://www.jiosaavn.com/album/tu-hai-kahan/UJia9ruIVF0_"
+                },
+                "artists": {
+                    "primary": [
+                        {
+                            "id": "18852050",
+                            "name": "AUR",
+                            "role": "primary_artists",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/AUR_000_20240220120151_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/AUR_000_20240220120151_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/AUR_000_20240220120151_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/aur-songs/EJaIQyaowFs_"
+                        }
+                    ],
+                    "featured": [],
+                    "all": [
+                        {
+                            "id": "15618868",
+                            "name": "Usama Ali",
+                            "role": "music",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/usama-ali-songs/JFKcxlft-KM_"
+                        },
+                        {
+                            "id": "7389469",
+                            "name": "Ahad Khan",
+                            "role": "music",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ahad-khan-songs/jrWAZySO1rU_"
+                        },
+                        {
+                            "id": "11603399",
+                            "name": "Raffey Anwar",
+                            "role": "music",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/raffey-anwar-songs/sC2bp1gj4AQ_"
+                        },
+                        {
+                            "id": "18852050",
+                            "name": "AUR",
+                            "role": "singer",
+                            "image": [
+                                {
+                                    "quality": "50x50",
+                                    "url": "https://c.saavncdn.com/artists/AUR_000_20240220120151_50x50.jpg"
+                                },
+                                {
+                                    "quality": "150x150",
+                                    "url": "https://c.saavncdn.com/artists/AUR_000_20240220120151_150x150.jpg"
+                                },
+                                {
+                                    "quality": "500x500",
+                                    "url": "https://c.saavncdn.com/artists/AUR_000_20240220120151_500x500.jpg"
+                                }
+                            ],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/aur-songs/EJaIQyaowFs_"
+                        },
+                        {
+                            "id": "15618868",
+                            "name": "Usama Ali",
+                            "role": "lyricist",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/usama-ali-songs/JFKcxlft-KM_"
+                        },
+                        {
+                            "id": "7389469",
+                            "name": "Ahad Khan",
+                            "role": "lyricist",
+                            "image": [],
+                            "type": "artist",
+                            "url": "https://www.jiosaavn.com/artist/ahad-khan-songs/jrWAZySO1rU_"
+                        }
+                    ]
+                },
+                "image": [
+                    {
+                        "quality": "50x50",
+                        "url": "https://c.saavncdn.com/397/Tu-hai-kahan-Hindi-2023-20231016122634-50x50.jpg"
+                    },
+                    {
+                        "quality": "150x150",
+                        "url": "https://c.saavncdn.com/397/Tu-hai-kahan-Hindi-2023-20231016122634-150x150.jpg"
+                    },
+                    {
+                        "quality": "500x500",
+                        "url": "https://c.saavncdn.com/397/Tu-hai-kahan-Hindi-2023-20231016122634-500x500.jpg"
+                    }
+                ],
+                "downloadUrl": [
+                    {
+                        "quality": "12kbps",
+                        "url": "https://aac.saavncdn.com/397/03202cd6238ff818728815fda7cd5cb0_12.mp4"
+                    },
+                    {
+                        "quality": "48kbps",
+                        "url": "https://aac.saavncdn.com/397/03202cd6238ff818728815fda7cd5cb0_48.mp4"
+                    },
+                    {
+                        "quality": "96kbps",
+                        "url": "https://aac.saavncdn.com/397/03202cd6238ff818728815fda7cd5cb0_96.mp4"
+                    },
+                    {
+                        "quality": "160kbps",
+                        "url": "https://aac.saavncdn.com/397/03202cd6238ff818728815fda7cd5cb0_160.mp4"
+                    },
+                    {
+                        "quality": "320kbps",
+                        "url": "https://aac.saavncdn.com/397/03202cd6238ff818728815fda7cd5cb0_320.mp4"
+                    }
+                ]
             }
-        ],
-        "downloadUrl": [
-            {
-                "quality": "12kbps",
-                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_12.mp4"
-            },
-            {
-                "quality": "48kbps",
-                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_48.mp4"
-            },
-            {
-                "quality": "96kbps",
-                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_96.mp4"
-            },
-            {
-                "quality": "160kbps",
-                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_160.mp4"
-            },
-            {
-                "quality": "320kbps",
-                "url": "https://aac.saavncdn.com/298/36f9fa2bb60c2ed5759ad7d865377955_320.mp4"
-            }
-        ]
-    }
+    
 ]
